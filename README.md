@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Lucas Marquisio 🖐️
 
-*Sou desenvolvedor web a um ano, desenvolvi varias aplicações privadas e publicas, atualmente sou freelancer e em meu tempo livre estou sempre estudando uma nova tecnologia*
+*Sou apaixonado por tecnologia, iniciei meus estudos com programação em 2015, tratava programação como um hobby, em 2019 decidi focar nos estudos e me dedicar 100% a programação, escolhi a linguagem javascript e atualmente sou freelancer.*
+
 
 * 🔥 Desenvolvedor Web Junior
 * ☕ Amante de Café 
 * ❤️ Linux / Opensource
+* ❤️ Tecnologia
 
 
 #### Linguagens / Frameworks que uso no meu dia a dia
