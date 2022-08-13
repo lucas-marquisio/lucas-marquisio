@@ -6,7 +6,7 @@
 
 *Experiência e forte conhecimento em Nodejs, MongoDB, Postgresql e Vuejs*
 
-* 🔥 Desenvolvedor Web Junior
+* 🔥 Desenvolvedor Web
 * ☕ Amante de Café 
 * ❤️ Linux / Opensource
 * ❤️ Tecnologia
