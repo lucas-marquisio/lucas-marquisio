@@ -32,10 +32,3 @@
 
 [![status lucas marquisio](https://github-readme-stats.vercel.app/api?username=lucas-marquisio&hide=contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/lucas-marquisio)
 
-
-
-## Contato
-
-* <a href="mailto:contato.lucasmarquisio@gmail.com">contato.lucasmarquisio@gmail.com</a> 
-
-* <a href="https://br.linkedin.com/in/lucas-marquisio-30a802206">Linkedin</a>
