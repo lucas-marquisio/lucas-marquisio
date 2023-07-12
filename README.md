@@ -1,5 +1,3 @@
-## Olá! Eu sou o Lucas Marquisio 🖐️
-
 *Sou apaixonado por tecnologia, iniciei meus estudos com programação em 2015, tratava programação como um hobby, em 2019 decidi focar nos estudos e me dedicar 100% a programação, escolhi a linguagem javascript.*
 
 *Trabalho com desenvolvimento web com foco em backend, mantendo nos projetos um codigo limpo e boas praticas.*
