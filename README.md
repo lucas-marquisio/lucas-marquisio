@@ -2,7 +2,7 @@
 
 *Trabalho com desenvolvimento web com foco em backend, mantendo nos projetos um codigo limpo e boas praticas.*
 
-*Experiência e forte conhecimento em Nodejs, MongoDB, Postgresql e Vuejs*
+*Experiência e forte conhecimento em Nodejs, MongoDB, Postgresql, Vuejs e reactjs*
 
 * 🔥 Desenvolvedor Web
 * ☕ Amante de Café 
