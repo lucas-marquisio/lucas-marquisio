@@ -1,30 +1,35 @@
-*Sou apaixonado por tecnologia, iniciei meus estudos com programação em 2015, tratava programação como um hobby, em 2019 decidi focar nos estudos e me dedicar 100% a programação, escolhi a linguagem javascript.*
+## 👋 Saudações
 
-*Trabalho com desenvolvimento web com foco em backend, mantendo nos projetos um codigo limpo e boas praticas.*
+Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conhecimento de forma independente. A partir de 2017, decidi elevar meu compromisso com a programação a um patamar profissional.
 
-*Experiência e forte conhecimento em Nodejs, MongoDB, Postgresql, Vuejs e reactjs*
+### Gostos & Hobbies
 
-* 🔥 Desenvolvedor Web
-* ☕ Amante de Café 
-* ❤️ Linux / Opensource
-* ❤️ Tecnologia
+- ☕ Café 
+- ❤️ Entusiasta de Linux / Software Livre / Tecnologia
+- ❤️ Ecossistema Javascript 
 
+## Linguagens e Ferramentas que uso no meu dia a dia
+<div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
+<img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>
+<img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
+<img src="https://img.shields.io/badge/-TypeScript-lightblue?logo=typescript">
+<img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb">
+<img src="https://img.shields.io/badge/-Git-gray?logo=git">
+<img src="https://img.shields.io/badge/-Github-gray?logo=github">
+<img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql">
+<img src="https://img.shields.io/badge/-react.js-white?logo=react">
+<img src="https://img.shields.io/badge/-sass-pink?logo=sass">
+<img src="https://img.shields.io/badge/-tailwind-lightblue?logo=tailwindcss">
+<img src="https://img.shields.io/badge/-html5-orange?logo=html5">
+<img src="https://img.shields.io/badge/-Docker-blue?logo=docker">
+<img src="https://img.shields.io/badge/-Linux-gray?logo=linux">
+</div>
 
-#### Linguagens / Frameworks que uso no meu dia a dia
+##
 
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
-[![]()]()
-[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+<div style="display: flex; gap: 4px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-marquisio&hide=prs,contribs,issues&show_icons=true&theme=tokyonight" height="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marquisio&layout=compact&theme=tokyonight" height="100px"/>
+</div>
 
-
-### Linguagens que estou estudando
-[![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-
-[![status lucas marquisio](https://github-readme-stats.vercel.app/api?username=lucas-marquisio&hide=contribs,issues&show_icons=true&theme=tokyonight)](https://github.com/lucas-marquisio)
 
