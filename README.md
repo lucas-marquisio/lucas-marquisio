@@ -6,7 +6,10 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 
 - ☕ Café 
 - ❤️ Entusiasta de Linux / Software Livre / Tecnologia
-- ❤️ Javascript/Typescript / Node.js / React.js 
+- ❤️ Javascript/Typescript / Node.js / React.js
+
+### Stacks
+- 💻 Desenvolvimento Web & Mobile
 
 ## Linguagens e Ferramentas que uso no meu dia a dia
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
