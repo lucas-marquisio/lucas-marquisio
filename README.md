@@ -9,7 +9,8 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 - ❤️ Javascript/Typescript / Node.js / React.js
 
 ### Stacks
-- 💻 Desenvolvimento Web & Mobile
+- 💻 Frontend (ReactJs & VueJs)
+- 💻 Backend (NodeJs)
 
 ## Linguagens e Ferramentas que uso no meu dia a dia
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
