@@ -12,7 +12,7 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 - 💻 Frontend (ReactJs & VueJs)
 - 💻 Backend (NodeJs)
 
-## Linguagens e Ferramentas que uso no meu dia a dia
+## Linguagens/Ferramentas que uso
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
 <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
