@@ -31,7 +31,7 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 
 ##
 
-<div style="display: flex; gap: 4px; flex-wrap: wrap;">
+<div style="display: flex; gap: 4px; flex-wrap: wrap; visibility: hidden;">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-marquisio&hide=prs,contribs,issues&show_icons=true&theme=tokyonight" height="100px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marquisio&layout=compact&theme=tokyonight" height="100px"/>
 </div>
