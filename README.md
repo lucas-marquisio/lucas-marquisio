@@ -12,7 +12,7 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 - 💻 Frontend (ReactJs & VueJs)
 - 💻 Backend (NodeJs)
 
-## Linguagens/Ferramentas que uso
+### Linguagens/Ferramentas que uso
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
 <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
@@ -27,13 +27,6 @@ Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conheci
 <img src="https://img.shields.io/badge/-html5-orange?logo=html5">
 <img src="https://img.shields.io/badge/-Docker-blue?logo=docker">
 <img src="https://img.shields.io/badge/-Linux-gray?logo=linux">
-</div>
-
-##
-
-<div style="display: flex; gap: 4px; flex-wrap: wrap; visibility: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-marquisio&hide=prs,contribs,issues&show_icons=true&theme=tokyonight" height="100px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marquisio&layout=compact&theme=tokyonight" height="100px"/>
 </div>
 
 
