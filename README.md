@@ -1,18 +1,19 @@
-## 👋 Saudações
+## 👋 Hello
 
-Em 2015 iniciei minha jornada na programação, explorei e aprimorei meu conhecimento de forma independente. A partir de 2017, decidi elevar meu compromisso com a programação a um patamar profissional.
+In 2015, I started my career in programming, exploring and perfecting my knowledge on my own. In 2017, I made the decision to take my involvement in programming to a professional level. Since then, I have dedicated my time to working in this area and have accumulated more than six years of solid experience in web development.
 
-### Gostos & Hobbies
+### Likes and hobbies
 
-- ☕ Café 
-- ❤️ Entusiasta de Linux / Software Livre / Tecnologia
-- ❤️ Javascript/Typescript / Node.js / React.js
+- ☕ Coffee
+- ❤️ Linux / Open Source / Technology enthusiast
 
 ### Stacks
-- 💻 Frontend (ReactJs & VueJs)
-- 💻 Backend (NodeJs)
+- 💻 Frontend [ReactJs, VueJs]
+- 💻 Backend [NodeJs]
 
-### Linguagens/Ferramentas que uso
+### Projects
+
+###  I have experience with
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
 <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>
 <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript">
