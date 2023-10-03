@@ -12,6 +12,8 @@ In 2015, I started my career in programming, exploring and perfecting my knowled
 - 💻 Backend [NodeJs]
 
 ### Projects
+- [Crud with bun.js, sqlite, typescript, ddd and tdd](https://github.com/lucas-marquisio/api-bun-ts)
+- [Lib masks for inputs](https://github.com/lucas-marquisio/biblioteca-mascaras)
 
 ###  I have experience with
 <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px">
