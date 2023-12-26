@@ -12,6 +12,7 @@ In 2015, I started my career in programming, exploring and perfecting my knowled
 - [Api with bun.js, sqlite, typescript, ddd and tdd](https://github.com/lucas-marquisio/api-bun-ts)
 - [Lib masks for inputs](https://github.com/lucas-marquisio/biblioteca-mascaras)
 - [Lib for create http server](https://github.com/lucas-marquisio/simple-http-api)
+- [Api rest usign techniques refactor, tdd, ddd and solid](https://github.com/lucas-marquisio/api-best-pratice)
 
 ###  ⚡ Technologies
 #### These are some of the technologies and tools that I work with:
