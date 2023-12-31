@@ -17,13 +17,20 @@ In 2015, I started my career in programming, exploring and perfecting my knowled
 ###  ⚡ Technologies
 #### These are some of the technologies and tools that I work with:
 
- | Technologies |||||||||
-   |-|---|--|---|---|--|--|--|--|
-   | Backend |  <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>  | <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript"> | <img src="https://img.shields.io/badge/-TypeScript-lightblue?logo=typescript">
-   |  Frontend |    <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript"> |  <img src="https://img.shields.io/badge/-TypeScript-lightblue?logo=typescript"> |    <img src="https://img.shields.io/badge/-react.js-white?logo=react"> |    <img src="https://img.shields.io/badge/-Vuejs-gray?logo=Vue.js"> |     <img src="https://img.shields.io/badge/-Css3.js-blue?logo=css3"> |     <img src="https://img.shields.io/badge/-sass-pink?logo=sass"> |     <img src="https://img.shields.io/badge/-tailwind-lightblue?logo=tailwindcss"> |     <img src="https://img.shields.io/badge/-html5-orange?logo=html5"> | 
-   |     Database |    <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb"> |    <img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql">|
-   |Cloud| <img src="https://img.shields.io/badge/-Aws-gray?logo=amazon"/> |    <img src="https://img.shields.io/badge/-Linux Server-gray?logo=linux"/> |
-   |     Tools |  <img src="https://img.shields.io/badge/-Git-gray?logo=git"> |    <img src="https://img.shields.io/badge/-Github-gray?logo=github"> |    <img src="https://img.shields.io/badge/-Docker-blue?logo=docker">|    <img src="https://img.shields.io/badge/-Jest-gray?logo=jest">|
-   | IDE's | <img src="https://img.shields.io/badge/-vscode-gray?logo=visual-studio-code">|
-   |Os |<img src="https://img.shields.io/badge/-Linux-gray?logo=linux">|    <img src="https://img.shields.io/badge/-Windows-gray?logo=windows">| <img src="https://img.shields.io/badge/-macos-gray?logo=apple" />|
-
+<div style="display: flex; gap: 4px; flex-wrap: wrap;">
+   <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js"/>
+   <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript"/>
+   <img src="https://img.shields.io/badge/-TypeScript-lightblue?logo=typescript"/>
+   <img src="https://img.shields.io/badge/-React.js-white?logo=react"/>
+   <img src="https://img.shields.io/badge/-Vue.js-gray?logo=Vue.js"/>
+   <img src="https://img.shields.io/badge/-Css3.js-blue?logo=css3"/>
+   <img src="https://img.shields.io/badge/-Sass-pink?logo=sass"/>
+   <img src="https://img.shields.io/badge/-Tailwind-lightblue?logo=tailwindcss"/>
+   <img src="https://img.shields.io/badge/-Html5-orange?logo=html5"/>
+   <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb"/>
+   <img src="https://img.shields.io/badge/-PostgreSQL-white?logo=postgresql"/>
+   <img src="https://img.shields.io/badge/-AWS-gray?logo=amazon"/>
+   <img src="https://img.shields.io/badge/-Linux Server-gray?logo=linux"/>
+   <img src="https://img.shields.io/badge/-Docker-blue?logo=docker"/>
+   <img src="https://img.shields.io/badge/-Jest-gray?logo=jest"/>
+</div>
