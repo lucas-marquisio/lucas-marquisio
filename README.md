@@ -13,6 +13,14 @@ In 2015, I started my career in programming, exploring and perfecting my knowled
 - [Lib masks for inputs](https://github.com/lucas-marquisio/biblioteca-mascaras)
 - [Lib for create http server](https://github.com/lucas-marquisio/simple-http-api)
 - [Api rest usign techniques refactor, tdd, ddd and solid](https://github.com/lucas-marquisio/api-best-pratice)
+  
+<!--
+### 🧑🏻‍💻 Example My Best Practices Guides
+- [TDD Examples - Testing Approach Showcase]()
+- [DDD Examples - Domain Modeling Practice]()
+- [SOLID Examples - Encapsulated Modularity Showcase]()
+- [Clean Architeture Example - Decoupled Architecture Illustration]()
+-->
 
 ###  ⚡ Technologies
 #### These are some of the technologies and tools that I work with:
