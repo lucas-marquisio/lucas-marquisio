@@ -9,10 +9,10 @@ In 2015, I started my career in programming, exploring and perfecting my knowled
 
 
 ### 💻 Projects
-- [Api with bun.js, sqlite, typescript, ddd and tdd](https://github.com/lucas-marquisio/api-bun-ts)
-- [Lib masks for inputs](https://github.com/lucas-marquisio/biblioteca-mascaras)
-- [Lib for create http server](https://github.com/lucas-marquisio/simple-http-api)
-- [Api rest usign techniques refactor, tdd, ddd and solid](https://github.com/lucas-marquisio/api-best-pratice)
+- [API  Bun, SQLite, TypeScript, DDD, and TDD](https://github.com/lucas-marquisio/api-bun-ts)
+- [Input Masks Library](https://github.com/lucas-marquisio/biblioteca-mascaras)
+- [HTTP Server Creation Library](https://github.com/lucas-marquisio/simple-http-api)
+- [API Implementation Using Advanced Refactoring Techniques, TDD, DDD, and SOLID Principles](https://github.com/lucas-marquisio/api-best-pratice)
   
 <!--
 ### 🧑🏻‍💻 Example My Best Practices Guides
